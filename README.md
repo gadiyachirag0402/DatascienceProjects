@@ -1,7 +1,7 @@
 # DatascienceProjectsData Science Lab Projects
-Name: Anuj Joshi Roll No: 20 Class: SE CSE-AI | Div: S1
+Name: Chirag Gadiya Roll No: 15 Class: SE CSE-AI | Div: S1
 University: Savitribai Phule Pune University
-Academic Year: 2024-25
+Academic Year: 2025-26
 
 Projects
 No	Project Title	Syllabus Reference	Tools Used
